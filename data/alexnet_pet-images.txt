@@ -1,0 +1,22 @@
+
+
+*** Results Summary for CNN Model Architecture ALEXNET ***
+N Images            :  40
+N Dog Images        :  30
+N Not-Dog Images    :  10
+
+*** Percentage of Correctly Classified Images ***
+pct_match           : 75.0%
+pct_correct_dogs    : 100.0%
+pct_correct_breed   : 80.0%
+pct_correct_notdogs : 100.0%
+
+*** Incorrectly Classified Dog Breeds ***
+Pet Image: Boston_terrier_02285.jpg            Real Label:             boston terrier   Classifier:                        basenji
+Pet Image: Great_pyrenees_05367.jpg            Real Label:             great pyrenees   Classifier:                         kuvasz
+Pet Image: Golden_retriever_05182.jpg          Real Label:           golden retriever   Classifier:                tibetan mastiff
+Pet Image: Beagle_01141.jpg                    Real Label:                     beagle   Classifier:               english foxhound
+Pet Image: Golden_retriever_05257.jpg          Real Label:           golden retriever   Classifier:           afghan hound, afghan
+Pet Image: Beagle_01170.jpg                    Real Label:                     beagle   Classifier:  walker hound, walker foxhound
+
+** Total Elapsed Runtime: 0:0:3

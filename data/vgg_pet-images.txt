@@ -1,0 +1,18 @@
+
+
+*** Results Summary for CNN Model Architecture VGG ***
+N Images            :  40
+N Dog Images        :  30
+N Not-Dog Images    :  10
+
+*** Percentage of Correctly Classified Images ***
+pct_match           : 87.5%
+pct_correct_dogs    : 100.0%
+pct_correct_breed   : 93.3%
+pct_correct_notdogs : 100.0%
+
+*** Incorrectly Classified Dog Breeds ***
+Pet Image: Great_pyrenees_05367.jpg            Real Label:             great pyrenees   Classifier:                         kuvasz
+Pet Image: Beagle_01170.jpg                    Real Label:                     beagle   Classifier:  walker hound, walker foxhound
+
+** Total Elapsed Runtime: 0:0:19

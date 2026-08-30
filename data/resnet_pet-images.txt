@@ -1,0 +1,22 @@
+
+
+*** Results Summary for CNN Model Architecture RESNET ***
+N Images            :  40
+N Dog Images        :  30
+N Not-Dog Images    :  10
+
+*** Percentage of Correctly Classified Images ***
+pct_match           : 82.5%
+pct_correct_dogs    : 100.0%
+pct_correct_breed   : 90.0%
+pct_correct_notdogs : 90.0%
+
+*** Incorrectly Classified Dogs ***
+Pet Image: cat_01.jpg                          Real Label:                        cat   Classifier:   norwegian elkhound, elkhound
+
+*** Incorrectly Classified Dog Breeds ***
+Pet Image: Great_pyrenees_05367.jpg            Real Label:             great pyrenees   Classifier:                         kuvasz
+Pet Image: Golden_retriever_05182.jpg          Real Label:           golden retriever   Classifier:                       leonberg
+Pet Image: Beagle_01170.jpg                    Real Label:                     beagle   Classifier:  walker hound, walker foxhound
+
+** Total Elapsed Runtime: 0:0:5
