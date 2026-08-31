@@ -7,7 +7,7 @@ This project uses a pretrained CNN (VGG, ResNet, or AlexNet) to classify pet ima
 3. Which of the three CNN architectures performs "best"
 4. The runtime trade-off between accuracy and speed across architectures
 
-All files are modified and all TODOs are completed in the `data` folder.
+```All files are modified and all TODOs are completed in the `data` folder.```
 
 ## Files
 - `check_images.py` — main driver program, ties all functions together and times the run
